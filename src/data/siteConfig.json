@@ -1,0 +1,53 @@
+{
+  "name": "BOTEQUIMRESTAURANTE",
+  "slug": "botequimrestaurante.com.br",
+  "description": "Nossa História: Fundado no final dos anos 70, o Botequim Restaurante em Botafogo é um verdadeiro ícone da gastronomia e cultura carioca. Desde sua inauguração, nosso estabelecimento tem sido um ponto de encontro para amantes da boa comida, da música e da convivência descontraída que só o Rio de Janeiro pode oferecer.",
+  "url": "https://botequimrestaurante.com.br",
+  "niche": "Gastronomia",
+  "keywords": "Nossa Historia Fundado no final dos anos 70 o Botequim Restaurante em",
+  "email": "contato@botequimrestaurante.com.br",
+  "palette": "sunset",
+  "colors": {
+    "primary": "#f97316",
+    "accent": "#c2410c",
+    "dark": "#431407"
+  },
+  "headerContrast": "light",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-A",
+    "hero": "Hero-A",
+    "features": "Features-E",
+    "about": "About-I",
+    "posts": "Posts-G",
+    "footer": "Footer-I",
+    "sobre": "Sobre-D",
+    "contato": "Contato-C"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o BOTEQUIMRESTAURANTE"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Fundado no final dos anos 70, o Botequim Restaurante é um verdadeiro ícone da gastronomia e cultura carioca. Desde nossa inauguração, temos sido um ponto de encontro para amantes da boa comida e da música, sempre promovendo um ambiente acolhedor e descontraído que reflete a essência do Rio de Janeiro."
+  },
+  "content": "No Botequim Restaurante, acreditamos que a comida é uma forma de arte e um meio poderoso de unir as pessoas. Nossa equipe é formada por apaixonados pela cozinha, dedicados a oferecer pratos que contam histórias e trazem memórias afetivas.",
+  "mission": "Proporcionar uma experiência gastronômica única, combinando a tradição carioca com a modernidade dos sabores.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

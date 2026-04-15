@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "BOTEQUIMRESTAURANTE — Bem-vindo ao Botequim Restaurante",
+    "description": "O verdadeiro sabor carioca desde os anos 70"
+  },
+  "hero": {
+    "title": "Bem-vindo ao Botequim Restaurante",
+    "subtitle": "O verdadeiro sabor carioca desde os anos 70",
+    "btnText": "Descubra nosso cardápio",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Por que escolher o Botequim?",
+    "items": [
+      {
+        "icon": "🍽️",
+        "title": "Culinária Autêntica",
+        "desc": "Pratos tradicionais que evocam as melhores receitas da cultura carioca."
+      },
+      {
+        "icon": "🎶",
+        "title": "Música ao Vivo",
+        "desc": "Desfrute de apresentações musicais em um ambiente descontraído e acolhedor."
+      },
+      {
+        "icon": "🍻",
+        "title": "Bebidas Artesanais",
+        "desc": "Uma seleção de cervejas e caipirinhas feitas com ingredientes frescos e locais."
+      },
+      {
+        "icon": "👨‍👩‍👧‍👦",
+        "title": "Espaço para Convivência",
+        "desc": "Um lugar ideal para reunir amigos e família em um ambiente descontraído."
+      }
+    ]
+  },
+  "about": {
+    "title": "Nossa História",
+    "desc": "Fundado no final dos anos 70, o Botequim Restaurante é um verdadeiro ícone da gastronomia e cultura carioca. Desde nossa inauguração, temos sido um ponto de encontro para amantes da boa comida e da música, sempre promovendo um ambiente acolhedor e descontraído que reflete a essência do Rio de Janeiro.",
+    "stats": [
+      {
+        "value": "40+",
+        "label": "Anos de Tradição"
+      },
+      {
+        "value": "5000+",
+        "label": "Clientes Satisfeitos"
+      },
+      {
+        "value": "1000+",
+        "label": "Pratos Servidos por Mês"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
